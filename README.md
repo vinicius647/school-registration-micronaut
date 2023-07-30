@@ -1,4 +1,7 @@
-# git 
+# School Registration API by Micronaut
+* Rest API to register students in courses and get the list of students registered in a course.
+* The docker image is public in docker hub: https://hub.docker.com/r/helpxml/school-registration-micronaut
+* To run it easly, just pull the image and run it with docker-compose.
 
 ### Ports:
 * Server 8282 - Running by docker-compose 8989 
